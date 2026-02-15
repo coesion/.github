@@ -1,3 +1,6 @@
+<img src="banner.png?raw=true" width="100%">
+
+
 # Coesion
 
 **Agent-first PHP tools for deterministic coding loops.**
